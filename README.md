@@ -5,13 +5,13 @@
       "name": "Movies",
       "videos": [
         {
-          "descriptionMoz": "Animaux TV est une chaîne télévisée spécialisée au Documentaires animaux et autres.",
+          "descriptionMoz": "ARTE TV est une chaîne télévisée spécialisée au Documentaires animaux et autres.",
           "sourceMoz": [
-            "http://185.59.221.131:8081/live/animaux/playlist.m3u8"
+            "http://145.239.5.177/300/index.m3u8"
           ],
-          "subtitleMoz": "By Channel",
-          "thumbMoz": "https://od.lk/s/M18yODMzMTM0NDlf/aniplanet.jpg",
-          "titleMoz": "ANIMAUX TV"
+          "subtitleMoz": "All Channels",
+          "thumbMoz": "https://od.lk/s/NDZfODIxNDM5MDRf/arte.png",
+          "titleMoz": "ARTE"
         },
         {
           "descriptionMoz": "National Geographic Wild est une chaîne télévisée spécialisée au Documentaires wild et autres.",
@@ -197,3 +197,15 @@
     }
   ]
 }
+
+
+
+{
+          "descriptionMoz": "Animaux TV est une chaîne télévisée spécialisée au Documentaires animaux et autres.",
+          "sourceMoz": [
+            "http://185.59.221.131:8081/live/animaux/playlist.m3u8"
+          ],
+          "subtitleMoz": "By Channel",
+          "thumbMoz": "https://od.lk/s/M18yODMzMTM0NDlf/aniplanet.jpg",
+          "titleMoz": "ANIMAUX TV"
+        },
