@@ -10,9 +10,57 @@
             "http://145.239.5.177/300/index.m3u8"
           ],
           "subtitleMoz": "All Channels",
+          "numberMoz": "494",
           "thumbMoz": "https://od.lk/s/NDZfODIxNDM5MDRf/arte.png",
           "titleMoz": "ARTE"
         },
+         {
+          "descriptionMoz": "National Géographie est une chaîne télévisée spécialisée au Documentaires et autres.",
+          "sourceMoz": [
+            "https://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8"
+          ],
+          "subtitleMoz": "All Channels",
+           "numberMoz": "495",
+          "thumbMoz": "https://od.lk/s/M18yODQ0MzQyMTlf/NatGeoHD.webp",
+          "titleMoz": "NAT GEO"
+        },
+        {
+          "descriptionMoz": "SONY BBC EARTH est une chaîne télévisée spécialisée au Documentaires et autres.",
+          "sourceMoz": [
+            "https://tataplay.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master_3500.m3u8"
+          ],
+          "subtitleMoz": "All Channels",
+          "numberMoz": "496",
+          "thumbMoz": "https://od.lk/s/NDZfODM4NDk3NTNf/sony_bbchd.jpeg",
+          "titleMoz": "SONY BBC EARTH"
+        },
+         {
+          "descriptionMoz": "Animal Planet HD est une chaîne télévisée spécialisée au Documentaires animaux et autres.",
+          "sourceMoz": [
+            "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60925a44f0350600075a1fdc/1539795/playlist.m3u8?terminate=false&sid=5cc06a56-861b-4448-84df-34ad224ceaa7&deviceDNT=0&deviceModel=web&deviceVersion=unknown&includeExtendedEvents=false&appName=web&deviceId=35fc78c1-e986-11eb-a0af-c3b401f46211&appVersion=unknown&deviceType=web&deviceMake=Chrome"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "497",
+          "thumbMoz": "https://od.lk/s/M18yODMzMTM3NThf/aniplanethd.png",
+          "titleMoz": "ANIMAL PLANET"
+        },
+          {
+          "descriptionMoz": "Adventure Earth UK est une chaîne télévisée spécialisée au Documentaires animaux et autres.",
+          "sourceMoz": [
+            "https://f8bdb8a4d6774c0ba30ca5b7653c92d3.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-gb_AdventureEarth/playlist.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "498",
+          "thumbMoz": "https://od.lk/s/NDZfODQ0Mjg5MTdf/adventureEarth.jpeg",
+          "titleMoz": "ADVENTURE EARTH UK"
+        }
+      ]
+    }
+  ]
+}
+
+
+       
         {
           "descriptionMoz": "National Geographic Wild est une chaîne télévisée spécialisée au Documentaires wild et autres.",
           "sourceMoz": [
@@ -40,15 +88,7 @@
           "thumbMoz": "https://od.lk/s/NDZfNTMxMjI5NTdf/travelxp.png",
           "titleMoz": "TRAVEL XP"
         },
-        {
-          "descriptionMoz": "National Géographie est une chaîne télévisée spécialisée au Documentaires et autres.",
-          "sourceMoz": [
-            "http://185.59.221.131:8081/live/natgeo/playlist.m3u8"
-          ],
-          "subtitleMoz": "By Channel",
-          "thumbMoz": "https://od.lk/s/M18yODQ0MzQyMTlf/NatGeoHD.webp",
-          "titleMoz": "NAT GEO 2"
-        },
+       
         {
           "descriptionMoz": "Chine Global Television Network TV 1 est une chaîne télévisée du Chine spécialisée au Documentaires et autres.",
           "sourceMoz": [
@@ -57,15 +97,6 @@
           "subtitleMoz": "By Channel",
           "thumbMoz": "https://od.lk/s/M18yODA3NTY5Mzhf/cgtntwo.jpg",
           "titleMoz": "CGTN"
-        },
-        {
-          "descriptionMoz": "Adventure Earth UK est une chaîne télévisée spécialisée au Documentaires animaux et autres.",
-          "sourceMoz": [
-            "https://f8bdb8a4d6774c0ba30ca5b7653c92d3.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-gb_AdventureEarth/playlist.m3u8"
-          ],
-          "subtitleMoz": "By Channel",
-          "thumbMoz": "https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg",
-          "titleMoz": "ADVENTURE EARTH UK"
         },
         {
           "descriptionMoz": "Chine Global Television Network TV 2 est une chaîne télévisée du Chine spécialisée au Documentaires et autres.",
@@ -102,15 +133,6 @@
           "subtitleMoz": "By Channel",
           "thumbMoz": "https://od.lk/s/M18yODQ0MzQyMTlf/NatGeoHD.webp",
           "titleMoz": "NAT GEOGRAPHIC"
-        },
-        {
-          "descriptionMoz": "Animal Planet HD est une chaîne télévisée spécialisée au Documentaires animaux et autres.",
-          "sourceMoz": [
-            "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60925a44f0350600075a1fdc/1539795/playlist.m3u8?terminate=false&sid=5cc06a56-861b-4448-84df-34ad224ceaa7&deviceDNT=0&deviceModel=web&deviceVersion=unknown&includeExtendedEvents=false&appName=web&deviceId=35fc78c1-e986-11eb-a0af-c3b401f46211&appVersion=unknown&deviceType=web&deviceMake=Chrome"
-          ],
-          "subtitleMoz": "By Channel",
-          "thumbMoz": "https://od.lk/s/M18yODMzMTM3NThf/aniplanethd.png",
-          "titleMoz": "ANIMAL PLANET HD"
         },
         {
           "descriptionMoz": "Animal Planet HD est une chaîne télévisée spécialisée au Documentaires animaux et autres.",
@@ -193,13 +215,6 @@
           "thumbMoz": "https://od.lk/s/M18yODMzMTM0NDlf/aniplanet.jpg",
           "titleMoz": "ANIMAL PLANET 3"
         }
-      ]
-    }
-  ]
-}
-
-
-
 {
           "descriptionMoz": "Animaux TV est une chaîne télévisée spécialisée au Documentaires animaux et autres.",
           "sourceMoz": [
