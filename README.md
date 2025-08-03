@@ -113,6 +113,36 @@
           "numberMoz": "504",
           "thumbMoz": "https://od.lk/s/NDZfODQ0MjkxMjBf/bbcEarth.jpeg",
           "titleMoz": "4K TRAVEL"
+        },
+        {
+          "descriptionMoz": "Pluto Animal TV est une chaîne télévisée spécialisée au Documentaires animaux et autres.",
+          "sourceMoz": [
+            "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60925a44f0350600075a1fdc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e05edb2-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=754cd30f-6a34-42d3-9e06-63128a8e07e3"
+          ],
+          "subtitleMoz": "All Channel",
+           "numberMoz": "505",
+          "thumbMoz": "https://od.lk/s/NDZfNTMxMjI5NTdf/travelxp.png",
+          "titleMoz": "PLUTO ANIMAUX"
+        },
+         {
+          "descriptionMoz": "Pluto Investigation TV est une chaîne télévisée spécialisée au Documentaires animaux et autres.",
+          "sourceMoz": [
+            "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f914f4b36d67d0007a91a04/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e057885-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a6c08e34-78b6-42cf-bca2-5017c1566c3c"
+          ],
+          "subtitleMoz": "All Channel",
+           "numberMoz": "506",
+          "thumbMoz": "https://od.lk/s/NDZfNTMxMjI5NTdf/travelxp.png",
+          "titleMoz": "PLUTO INVESTIGATION"
+        },
+         {
+          "descriptionMoz": "100% Docs TV est une chaîne télévisée spécialisée au Documentaires animaux et autres.",
+          "sourceMoz": [
+            "https://amg02162-newenconnect-amg02162c2-rakuten-us-1981.playouts.now.amagi.tv/playlist/amg02162-newenconnect-100pour100docs-rakutenus/playlist.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+           "numberMoz": "507",
+          "thumbMoz": "https://od.lk/s/NDZfODQ0MjkxNDFf/100docs.jpeg",
+          "titleMoz": "100 % DOCS"
         }
       ]
     }
@@ -140,6 +170,9 @@
           "thumbMoz": "https://od.lk/s/NDZfNTMxMjI5NTdf/travelxp.png",
           "titleMoz": "TRAVEL XP"
         },
+
+
+        
        
         {
           "descriptionMoz": "Chine Global Television Network TV 1 est une chaîne télévisée du Chine spécialisée au Documentaires et autres.",
