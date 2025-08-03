@@ -143,6 +143,36 @@
            "numberMoz": "507",
           "thumbMoz": "https://od.lk/s/NDZfODQ0MjkxNDFf/100docs.jpeg",
           "titleMoz": "100 % DOCS"
+        },
+        {
+          "descriptionMoz": "Chine Global Television Network TV 2 est une chaîne télévisée du Chine spécialisée au Documentaires et autres.",
+          "sourceMoz": [
+            "https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "508",
+          "thumbMoz": "https://od.lk/s/M18yODA3NTY5Mzhf/cgtntwo.jpg",
+          "titleMoz": "CGTN"
+        },
+        {
+          "descriptionMoz": "Travel TV est une chaîne télévisée spécialisée au Documentaires animaux et autres.",
+          "sourceMoz": [
+            "https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "509",
+          "thumbMoz": "https://od.lk/s/NDZfNTMxMjI5NTdf/travelxp.png",
+          "titleMoz": "TRAVEL XP ENG"
+        },
+        {
+          "descriptionMoz": "Travel TV est une chaîne télévisée spécialisée au Documentaires animaux et autres.",
+          "sourceMoz": [
+            "https://travelxp-travelxp-5-eu.rakuten.wurl.tv/playlist.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "510",
+          "thumbMoz": "https://od.lk/s/NDZfNTMxMjI5NTdf/travelxp.png",
+          "titleMoz": "TRAVEL XP ESP"
         }
       ]
     }
@@ -152,27 +182,6 @@
 
        
       https://od.lk/s/M18yODQ0MzQyMTlf/NatGeoHD.webp 
-        {
-          "descriptionMoz": "Chine Global Television Network TV 2 est une chaîne télévisée du Chine spécialisée au Documentaires et autres.",
-          "sourceMoz": [
-            "http://livefr.cgtn.com/1000f/prog_index.m3u8"
-          ],
-          "subtitleMoz": "By Channel",
-          "thumbMoz": "https://od.lk/s/M18yODA3NTY5Mzhf/cgtntwo.jpg",
-          "titleMoz": "CGTN"
-        },
-        {
-          "descriptionMoz": "Travel TV est une chaîne télévisée spécialisée au Documentaires animaux et autres.",
-          "sourceMoz": [
-            "http://185.59.221.131:8081/live/travel/playlist.m3u8"
-          ],
-          "subtitleMoz": "By Channel",
-          "thumbMoz": "https://od.lk/s/NDZfNTMxMjI5NTdf/travelxp.png",
-          "titleMoz": "TRAVEL XP"
-        },
-
-
-        
        
         {
           "descriptionMoz": "Chine Global Television Network TV 1 est une chaîne télévisée du Chine spécialisée au Documentaires et autres.",
