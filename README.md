@@ -61,7 +61,7 @@
           ],
           "subtitleMoz": "All Channel",
           "numberMoz": "499",
-          "thumbMoz": "https://od.lk/s/NDZfODQ0Mjg5MTdf/adventureEarth.jpeg",
+          "thumbMoz": "https://od.lk/s/NDZfODQ0MzMzNjhf/espaceSeriestv.jpg",
           "titleMoz": "ESPACE SERIES"
         },
         {
@@ -111,7 +111,7 @@
           ],
           "subtitleMoz": "All Channel",
           "numberMoz": "504",
-          "thumbMoz": "https://od.lk/s/NDZfODQ0MjkxMjBf/bbcEarth.jpeg",
+          "thumbMoz": "https://od.lk/s/NDZfODQ0MzMzODRf/4ktravel.jpeg",
           "titleMoz": "4K TRAVEL"
         },
         {
@@ -121,7 +121,7 @@
           ],
           "subtitleMoz": "All Channel",
            "numberMoz": "505",
-          "thumbMoz": "https://od.lk/s/NDZfNTMxMjI5NTdf/travelxp.png",
+          "thumbMoz": "https://od.lk/s/NDZfODQ0MzMzNjRf/plutoAnimal.jpeg",
           "titleMoz": "PLUTO ANIMAUX"
         },
          {
@@ -131,7 +131,7 @@
           ],
           "subtitleMoz": "All Channel",
            "numberMoz": "506",
-          "thumbMoz": "https://od.lk/s/NDZfNTMxMjI5NTdf/travelxp.png",
+          "thumbMoz": "https://od.lk/s/NDZfODQ0MzMzNjVf/plutoinvestigation.png",
           "titleMoz": "PLUTO INVESTIGATION"
         },
          {
@@ -171,7 +171,7 @@
           ],
           "subtitleMoz": "All Channel",
           "numberMoz": "510",
-          "thumbMoz": "https://od.lk/s/NDZfNTMxMjI5NTdf/travelxp.png",
+          "thumbMoz": "https://od.lk/s/NDZfODQ0MzMzNjNf/travelxdspain.png",
           "titleMoz": "TRAVEL XP ESP"
         }
       ]
