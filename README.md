@@ -21,7 +21,7 @@
           ],
           "subtitleMoz": "All Channels",
           "numberMoz": "530",
-          "thumbMoz": "https://od.lk/s/NDZfODIxNDM5MDRf/arte.png",
+          "thumbMoz": "https://od.lk/s/NDZfNzU5MDE3MDhf/rtdocumentary.jpg",
           "titleMoz": "RT DOCUMENTARY"
         },
         {
@@ -61,7 +61,7 @@
           ],
           "subtitleMoz": "All Channels",
            "numberMoz": "529",
-          "thumbMoz": "https://od.lk/s/M18yODQ0MzQyMTlf/NatGeoHD.webp",
+          "thumbMoz": "https://od.lk/s/NDZfODUxNTg4NzJf/natgeoWild.jpeg",
           "titleMoz": "NAT GEO WILD"
         },
          {
@@ -73,16 +73,6 @@
           "numberMoz": "500",
           "thumbMoz": "https://od.lk/s/M18yODQ0MzQxMzRf/natgeoWlid.png",
           "titleMoz": "NAT GEO WILD"
-        },
-        {
-          "descriptionMoz": "National Géographie Wild est une chaîne télévisée spécialisée au Documentaires et autres.",
-          "sourceMoz": [
-            "https://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "501",
-          "thumbMoz": "https://od.lk/s/NDZfODUxNTg4NzJf/natgeoWild.jpeg",
-          "titleMoz": "NAT GEO WILD 2"
         },
         {
           "descriptionMoz": "National Géographie est une chaîne télévisée spécialisée au Documentaires et autres.",
@@ -250,7 +240,7 @@
             "https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8"
           ],
           "subtitleMoz": "All Channel",
-           "numberMoz": "535",
+           "numberMoz": "501",
           "thumbMoz": "https://od.lk/s/NDZfODUxNTg4NjVf/asharqDocumentary.png",
           "titleMoz": "ASHARQ DOCUMENTARY"
         },
@@ -261,7 +251,7 @@
           ],
           "subtitleMoz": "All Channel",
            "numberMoz": "527",
-          "thumbMoz": "https://od.lk/s/M18yODQ0MzQxMzRf/natgeoWlid.png",
+          "thumbMoz": "https://od.lk/s/NDZfNzU5MDE3Njlf/natureEscape.jpg",
           "titleMoz": "NATURE ESCAPE"
         }
       ]
@@ -270,7 +260,7 @@
 }
 
 
-       
+       https://od.lk/s/NDZfODUxNTg4NzJf/natgeoWild.jpeg
       https://od.lk/s/M18yODQ0MzQyMTlf/NatGeoHD.webp 
 
         {
