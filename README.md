@@ -5,6 +5,26 @@
       "name": "Movies",
       "videos": [
          {
+          "descriptionMoz": "Animaux TV est une chaîne télévisée spécialisée au Documentaires animaux et autres.",
+          "sourceMoz": [
+            "https://viamotionhsi.netplus.ch/live/eds/animaux/browser-HLS8/animaux.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+           "numberMoz": "507",
+          "thumbMoz": "https://od.lk/s/NDZfODQ0MjkxNDFf/100docs.jpeg",
+          "titleMoz": "ANIMAUX"
+        },
+         {
+          "descriptionMoz": "Planet + TV est une chaîne télévisée spécialisée au Documentaires animaux et autres.",
+          "sourceMoz": [
+            "https://viamotionhsi.netplus.ch/live/eds/planeteplus/browser-HLS8/planeteplus.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+           "numberMoz": "507",
+          "thumbMoz": "https://od.lk/s/NDZfODQ0MjkxNDFf/100docs.jpeg",
+          "titleMoz": "PLANET +"
+        },
+         {
           "descriptionMoz": "100% Docs TV est une chaîne télévisée spécialisée au Documentaires animaux et autres.",
           "sourceMoz": [
             "https://amg02162-newenconnect-amg02162c2-rakuten-us-1981.playouts.now.amagi.tv/playlist/amg02162-newenconnect-100pour100docs-rakutenus/playlist.m3u8"
@@ -13,6 +33,24 @@
            "numberMoz": "507",
           "thumbMoz": "https://od.lk/s/NDZfODQ0MjkxNDFf/100docs.jpeg",
           "titleMoz": "100 % DOCS"
+        },
+        {
+          "descriptionMoz": "RMC Découverte est une chaîne télévisée spécialisée au Documentaires et autres.",
+          "sourceMoz": [
+            "https://viamotionhsi.netplus.ch/live/eds/rmcdecouverte/browser-HLS8/rmcdecouverte.m3u8"
+          ],
+          "subtitleMoz": "By Channel",
+          "thumbMoz": "https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg",
+          "titleMoz": "RMC DÉCOUVERTE"
+        },
+        {
+          "descriptionMoz": "RMC STORY est une chaîne télévisée spécialisée au Documentaires et autres.",
+          "sourceMoz": [
+            "https://viamotionhsi.netplus.ch/live/eds/numero23/browser-HLS8/numero23.m3u8"
+          ],
+          "subtitleMoz": "By Channel",
+          "thumbMoz": "https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg",
+          "titleMoz": "RMC STORY"
         },
          {
           "descriptionMoz": "RT Documentary TV est une chaîne télévisée spécialisée au Documentaires animaux et autres.",
@@ -23,6 +61,24 @@
           "numberMoz": "530",
           "thumbMoz": "https://od.lk/s/NDZfNzU5MDE3MDhf/rtdocumentary.jpg",
           "titleMoz": "RT DOCUMENTARY"
+        },
+         {
+          "descriptionMoz": "Into Crime est une chaîne télévisée spécialisée au Documentaires et autres.",
+          "sourceMoz": [
+            "https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8"
+          ],
+          "subtitleMoz": "By Channel",
+          "thumbMoz": "https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg",
+          "titleMoz": "INTO CRIME"
+        },
+        {
+          "descriptionMoz": "Science & Vie est une chaîne télévisée spécialisée au Documentaires et autres.",
+          "sourceMoz": [
+            "https://tvradiozap.eu/1241.m3u8"
+          ],
+          "subtitleMoz": "By Channel",
+          "thumbMoz": "https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg",
+          "titleMoz": "SCIENCE & VIE"
         },
         {
           "descriptionMoz": "ARTE TV est une chaîne télévisée spécialisée au Documentaires animaux et autres.",
@@ -283,24 +339,7 @@
           "thumbMoz": "https://od.lk/s/M18yODA3NTY5Mzhf/cgtntwo.jpg",
           "titleMoz": "CGTN"
         },
-        {
-          "descriptionMoz": "RMC Découverte est une chaîne télévisée spécialisée au Documentaires et autres.",
-          "sourceMoz": [
-            "http://185.59.221.131:8081/live/rmcdecouverte/playlist.m3u8"
-          ],
-          "subtitleMoz": "By Channel",
-          "thumbMoz": "https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg",
-          "titleMoz": "RMC DÉCOUVERTE"
-        },
-        {
-          "descriptionMoz": "RMC STORY est une chaîne télévisée spécialisée au Documentaires et autres.",
-          "sourceMoz": [
-            "http://185.59.221.131:8081/live/rmcstory/playlist.m3u8"
-          ],
-          "subtitleMoz": "By Channel",
-          "thumbMoz": "https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg",
-          "titleMoz": "RMC STORY"
-        },
+       
         {
           "descriptionMoz": "Chine Global Television Network TV 2 est une chaîne télévisée du Chine spécialisée au Documentaires et autres.",
           "sourceMoz": [
