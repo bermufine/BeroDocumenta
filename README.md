@@ -11,7 +11,7 @@
           ],
           "subtitleMoz": "All Channel",
            "numberMoz": "507",
-          "thumbMoz": "https://od.lk/s/NDZfODQ0MjkxNDFf/100docs.jpeg",
+          "thumbMoz": "https://od.lk/s/NDZfODY4NTg1NjVf/animaux.jpg",
           "titleMoz": "ANIMAUX"
         },
          {
@@ -21,7 +21,7 @@
           ],
           "subtitleMoz": "All Channel",
            "numberMoz": "507",
-          "thumbMoz": "https://od.lk/s/NDZfODQ0MjkxNDFf/100docs.jpeg",
+          "thumbMoz": "https://od.lk/s/NDZfODY4NTg2MDlf/planete.jpg",
           "titleMoz": "PLANET +"
         },
          {
@@ -39,8 +39,9 @@
           "sourceMoz": [
             "https://viamotionhsi.netplus.ch/live/eds/rmcdecouverte/browser-HLS8/rmcdecouverte.m3u8"
           ],
-          "subtitleMoz": "By Channel",
-          "thumbMoz": "https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg",
+          "subtitleMoz": "All Channel",
+          "numberMoz": "528",
+          "thumbMoz": "https://od.lk/s/NDZfODY4NTg3NDRf/rmcdecouvertetv.jpg",
           "titleMoz": "RMC DÉCOUVERTE"
         },
         {
@@ -48,8 +49,9 @@
           "sourceMoz": [
             "https://viamotionhsi.netplus.ch/live/eds/numero23/browser-HLS8/numero23.m3u8"
           ],
-          "subtitleMoz": "By Channel",
-          "thumbMoz": "https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg",
+          "subtitleMoz": "All Channel",
+          "numberMoz": "529",
+          "thumbMoz": "https://od.lk/s/NDZfODY4NTg3NDdf/rmcstory.jpg",
           "titleMoz": "RMC STORY"
         },
          {
@@ -67,8 +69,9 @@
           "sourceMoz": [
             "https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8"
           ],
-          "subtitleMoz": "By Channel",
-          "thumbMoz": "https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg",
+          "subtitleMoz": "All Channel",
+          "numberMoz": "529",
+          "thumbMoz": "https://od.lk/s/NDZfODY4NTkwNzhf/crime.jpg",
           "titleMoz": "INTO CRIME"
         },
         {
@@ -76,8 +79,9 @@
           "sourceMoz": [
             "https://tvradiozap.eu/1241.m3u8"
           ],
-          "subtitleMoz": "By Channel",
-          "thumbMoz": "https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg",
+          "subtitleMoz": "All Channel",
+          "numberMoz": "530",
+          "thumbMoz": "https://od.lk/s/NDZfODY4NTkxMzRf/sciencevie.png",
           "titleMoz": "SCIENCE & VIE"
         },
         {
@@ -93,7 +97,7 @@
         {
           "descriptionMoz": "National Géographie est une chaîne télévisée spécialisée au Documentaires et autres.",
           "sourceMoz": [
-            "https://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8"
+            "https://fl7.moveonjoy.com/Nat_Geo_Wild/index.m3u8"
           ],
           "subtitleMoz": "All Channels",
            "numberMoz": "495",
@@ -113,7 +117,7 @@
          {
           "descriptionMoz": "National Géographie est une chaîne télévisée spécialisée au Documentaires et autres.",
           "sourceMoz": [
-            "https://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8"
+            "https://fl7.moveonjoy.com/Nat_Geo_Wild/index.m3u8"
           ],
           "subtitleMoz": "All Channels",
            "numberMoz": "529",
@@ -133,7 +137,7 @@
         {
           "descriptionMoz": "National Géographie est une chaîne télévisée spécialisée au Documentaires et autres.",
           "sourceMoz": [
-            "https://fl3.moveonjoy.com/National_Geographic/index.m3u8"
+            "https://fl7.moveonjoy.com/National_Geographic/index.m3u8"
           ],
           "subtitleMoz": "All Channel",
           "numberMoz": "502",
@@ -143,22 +147,12 @@
         {
           "descriptionMoz": "Military History TV est une chaîne télévisée spécialisée au Documentaires et autres.",
           "sourceMoz": [
-            "https://fl3.moveonjoy.com/Military_History/index.m3u8"
+            "https://fl7.moveonjoy.com/Military_History/index.m3u8"
           ],
           "subtitleMoz": "All Channels",
           "numberMoz": "531",
           "thumbMoz": "https://od.lk/s/NDZfODUxNTg4Njhf/militaryHistory.jpeg",
           "titleMoz": "MILITARY HISTORY"
-        },
-        {
-          "descriptionMoz": "SONY BBC EARTH est une chaîne télévisée spécialisée au Documentaires et autres.",
-          "sourceMoz": [
-            "https://tataplay.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master_3500.m3u8"
-          ],
-          "subtitleMoz": "All Channels",
-          "numberMoz": "496",
-          "thumbMoz": "https://od.lk/s/NDZfODM4NDk3NTNf/sony_bbchd.jpeg",
-          "titleMoz": "SONY BBC EARTH"
         },
          {
           "descriptionMoz": "BBC EARTH est une chaîne télévisée spécialisée au Documentaires wild et autres.",
@@ -309,6 +303,16 @@
            "numberMoz": "527",
           "thumbMoz": "https://od.lk/s/NDZfNzU5MDE3Njlf/natureEscape.jpg",
           "titleMoz": "NATURE ESCAPE"
+        },
+         {
+          "descriptionMoz": "National Géographie est une chaîne télévisée spécialisée au Documentaires et autres.",
+          "sourceMoz": [
+            "https://fl7.moveonjoy.com/National_Geographic/index.m3u8"
+          ],
+          "subtitleMoz": "All Channels",
+           "numberMoz": "528",
+          "thumbMoz": "https://od.lk/s/NDZfODUxNTg4NzBf/natgeoChannel.png",
+          "titleMoz": "NAT GEO EAST"
         }
       ]
     }
@@ -319,15 +323,18 @@
        https://od.lk/s/NDZfODUxNTg4NzJf/natgeoWild.jpeg
       https://od.lk/s/M18yODQ0MzQyMTlf/NatGeoHD.webp 
 
-        {
-          "descriptionMoz": "National Géographie est une chaîne télévisée spécialisée au Documentaires et autres.",
+       
+
+
+         {
+          "descriptionMoz": "SONY BBC EARTH est une chaîne télévisée spécialisée au Documentaires et autres.",
           "sourceMoz": [
-            "https://fl3.moveonjoy.com/National_Geographic/index.m3u8"
+            "https://tataplay.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master_3500.m3u8"
           ],
           "subtitleMoz": "All Channels",
-           "numberMoz": "527",
-          "thumbMoz": "https://od.lk/s/NDZfODUxNTg4NzBf/natgeoChannel.png",
-          "titleMoz": "NAT GEO EAST"
+          "numberMoz": "496",
+          "thumbMoz": "https://od.lk/s/NDZfODM4NDk3NTNf/sony_bbchd.jpeg",
+          "titleMoz": "SONY BBC EARTH"
         },
        
         {
