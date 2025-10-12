@@ -313,6 +313,16 @@
            "numberMoz": "528",
           "thumbMoz": "https://od.lk/s/NDZfODUxNTg4NzBf/natgeoChannel.png",
           "titleMoz": "NAT GEO EAST"
+        },
+           {
+          "descriptionMoz": "Animaux TV est une chaîne télévisée spécialisée au Documentaires animaux et autres.",
+          "sourceMoz": [
+            "https://viamotionhsi.netplus.ch/live/eds/animaux/browser-HLS8/animaux.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+           "numberMoz": "507",
+          "thumbMoz": "https://od.lk/s/NDZfODY4NTg1NjVf/animaux.jpg",
+          "titleMoz": "ANIMAUX"
         }
       ]
     }
