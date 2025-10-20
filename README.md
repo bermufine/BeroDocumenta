@@ -97,7 +97,7 @@
         {
           "descriptionMoz": "National Géographie est une chaîne télévisée spécialisée au Documentaires et autres.",
           "sourceMoz": [
-            "https://fl7.moveonjoy.com/Nat_Geo_Wild/index.m3u8"
+            "https://fl41.moveonjoy.com/Nat_Geo_Wild/index.m3u8"
           ],
           "subtitleMoz": "All Channels",
            "numberMoz": "495",
@@ -117,7 +117,7 @@
          {
           "descriptionMoz": "National Géographie est une chaîne télévisée spécialisée au Documentaires et autres.",
           "sourceMoz": [
-            "https://fl7.moveonjoy.com/Nat_Geo_Wild/index.m3u8"
+            "https://fl41.moveonjoy.com/Nat_Geo_Wild/index.m3u8"
           ],
           "subtitleMoz": "All Channels",
            "numberMoz": "529",
@@ -137,7 +137,7 @@
         {
           "descriptionMoz": "National Géographie est une chaîne télévisée spécialisée au Documentaires et autres.",
           "sourceMoz": [
-            "https://fl7.moveonjoy.com/National_Geographic/index.m3u8"
+            "https://fl41.moveonjoy.com/National_Geographic/index.m3u8"
           ],
           "subtitleMoz": "All Channel",
           "numberMoz": "502",
@@ -147,7 +147,7 @@
         {
           "descriptionMoz": "Military History TV est une chaîne télévisée spécialisée au Documentaires et autres.",
           "sourceMoz": [
-            "https://fl7.moveonjoy.com/Military_History/index.m3u8"
+            "https://fl41.moveonjoy.com/Military_History/index.m3u8"
           ],
           "subtitleMoz": "All Channels",
           "numberMoz": "531",
@@ -307,7 +307,7 @@
          {
           "descriptionMoz": "National Géographie est une chaîne télévisée spécialisée au Documentaires et autres.",
           "sourceMoz": [
-            "https://fl7.moveonjoy.com/National_Geographic/index.m3u8"
+            "https://fl41.moveonjoy.com/National_Geographic/index.m3u8"
           ],
           "subtitleMoz": "All Channels",
            "numberMoz": "528",
