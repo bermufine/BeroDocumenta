@@ -95,16 +95,6 @@
           "titleMoz": "LAW & CRIME"
         },
         {
-          "descriptionMoz": "BBC EARTH est une chaîne télévisée spécialisée au Documentaires wild et autres.",
-          "sourceMoz": [
-            "https://apollo.production-public.tubi.io/live/ac-bbc-earth2.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "503",
-          "thumbMoz": "https://od.lk/s/NDZfODQ0MjkxMjBf/bbcEarth.jpeg",
-          "titleMoz": "BBC EARTH"
-        },
-        {
           "descriptionMoz": "Epace Series est une chaîne télévisée spécialisée au Documentaires animaux et autres.",
           "sourceMoz": [
             "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/18d329ef-d478-413c-b68f-c123494ac434/manifest.m3u8"
@@ -231,7 +221,7 @@
           ],
           "subtitleMoz": "By Channel",
           "thumbMoz": "https://od.lk/s/M18yODMzMTM0NDlf/aniplanet.jpg",
-          "titleMoz": "ANIMAL PLANET 2"
+          "titleMoz": "ANIMAL PLANET"
         }
       ]
     }
@@ -240,7 +230,16 @@
 
 
         
-
+   {
+          "descriptionMoz": "BBC EARTH est une chaîne télévisée spécialisée au Documentaires wild et autres.",
+          "sourceMoz": [
+            "https://apollo.production-public.tubi.io/live/ac-bbc-earth2.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "503",
+          "thumbMoz": "https://od.lk/s/NDZfODQ0MjkxMjBf/bbcEarth.jpeg",
+          "titleMoz": "BBC EARTH"
+        },
 
           {
           "descriptionMoz": "Animal Planet HD est une chaîne télévisée spécialisée au Documentaires animaux et autres.",
