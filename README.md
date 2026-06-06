@@ -4,57 +4,26 @@
     {
       "name": "Movies",
       "videos": [
-         {
-          "descriptionMoz": "Animaux TV est une chaîne télévisée spécialisée au Documentaires animaux et autres.",
+      {
+          "descriptionMoz": "Animal Planet HD est une chaîne télévisée spécialisée au Documentaires animaux et autres.",
           "sourceMoz": [
-            "https://viamotionhsi.netplus.ch/live/eds/animaux/browser-HLS8/animaux.m3u8"
+            " http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8"
           ],
           "subtitleMoz": "All Channel",
-           "numberMoz": "507",
-          "thumbMoz": "https://od.lk/s/NDZfODY4NTg1NjVf/animaux.jpg",
-          "titleMoz": "ANIMAUX"
+          "numberMoz": "497",
+          "thumbMoz": "https://od.lk/s/M18yODMzMTM3NThf/aniplanethd.png",
+          "titleMoz": "ANIMAL PLANET"
         },
          {
-          "descriptionMoz": "Planet + TV est une chaîne télévisée spécialisée au Documentaires animaux et autres.",
+          "descriptionMoz": "Animal Planet HD est une chaîne télévisée spécialisée au Documentaires animaux et autres.",
           "sourceMoz": [
-            "https://viamotionhsi.netplus.ch/live/eds/planeteplus/browser-HLS8/planeteplus.m3u8"
+            "http://217.20.112.199:80/animalplanet/tracks-v1a1/mono.m3u8"
           ],
-          "subtitleMoz": "All Channel",
-           "numberMoz": "507",
-          "thumbMoz": "https://od.lk/s/NDZfODY4NTg2MDlf/planete.jpg",
-          "titleMoz": "PLANET +"
-        },
-         {
-          "descriptionMoz": "100% Docs TV est une chaîne télévisée spécialisée au Documentaires animaux et autres.",
-          "sourceMoz": [
-            "https://amg02162-newenconnect-amg02162c2-rakuten-us-1981.playouts.now.amagi.tv/playlist/amg02162-newenconnect-100pour100docs-rakutenus/playlist.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-           "numberMoz": "507",
-          "thumbMoz": "https://od.lk/s/NDZfODQ0MjkxNDFf/100docs.jpeg",
-          "titleMoz": "100 % DOCS"
+          "subtitleMoz": "By Channel",
+          "thumbMoz": "https://od.lk/s/M18yODMzMTM0NDlf/aniplanet.jpg",
+          "titleMoz": "ANIMAL PLANET 2"
         },
         {
-          "descriptionMoz": "RMC Découverte est une chaîne télévisée spécialisée au Documentaires et autres.",
-          "sourceMoz": [
-            "https://viamotionhsi.netplus.ch/live/eds/rmcdecouverte/browser-HLS8/rmcdecouverte.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "528",
-          "thumbMoz": "https://od.lk/s/NDZfODY4NTg3NDRf/rmcdecouvertetv.jpg",
-          "titleMoz": "RMC DÉCOUVERTE"
-        },
-        {
-          "descriptionMoz": "RMC STORY est une chaîne télévisée spécialisée au Documentaires et autres.",
-          "sourceMoz": [
-            "https://viamotionhsi.netplus.ch/live/eds/numero23/browser-HLS8/numero23.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "529",
-          "thumbMoz": "https://od.lk/s/NDZfODY4NTg3NDdf/rmcstory.jpg",
-          "titleMoz": "RMC STORY"
-        },
-         {
           "descriptionMoz": "RT Documentary TV est une chaîne télévisée spécialisée au Documentaires animaux et autres.",
           "sourceMoz": [
             "https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8"
@@ -64,7 +33,7 @@
           "thumbMoz": "https://od.lk/s/NDZfNzU5MDE3MDhf/rtdocumentary.jpg",
           "titleMoz": "RT DOCUMENTARY"
         },
-         {
+        {
           "descriptionMoz": "Into Crime est une chaîne télévisée spécialisée au Documentaires et autres.",
           "sourceMoz": [
             "https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8"
@@ -95,36 +64,26 @@
           "titleMoz": "ARTE"
         },
         {
-          "descriptionMoz": "National Géographie est une chaîne télévisée spécialisée au Documentaires et autres.",
+          "descriptionMoz": "Adventure Earth UK est une chaîne télévisée spécialisée au Documentaires animaux et autres.",
           "sourceMoz": [
-            "https://fl1.moveonjoy.com/Nat_Geo_Wild/index.m3u8"
+            "https://f8bdb8a4d6774c0ba30ca5b7653c92d3.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-gb_AdventureEarth/playlist.m3u8"
           ],
-          "subtitleMoz": "All Channels",
-           "numberMoz": "495",
-          "thumbMoz": "https://od.lk/s/M18yODQ0MzQyMTlf/NatGeoHD.webp",
-          "titleMoz": "NAT GEO"
+          "subtitleMoz": "All Channel",
+          "numberMoz": "498",
+          "thumbMoz": "https://od.lk/s/NDZfODQ0Mjg5MTdf/adventureEarth.jpeg",
+          "titleMoz": "ADVENTURE EARTH UK"
         },
         {
           "descriptionMoz": "National Géographie est une chaîne télévisée spécialisée au Documentaires et autres.",
           "sourceMoz": [
-            "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NAT_GEO/index.m3u8"
-          ],
-          "subtitleMoz": "All Channels",
-           "numberMoz": "528",
-          "thumbMoz": "https://od.lk/s/NDZfODUxNTg4NzBf/natgeoChannel.png",
-          "titleMoz": "NAT GEO LATIN"
-        },
-         {
-          "descriptionMoz": "National Géographie est une chaîne télévisée spécialisée au Documentaires et autres.",
-          "sourceMoz": [
-            "https://fl1.moveonjoy.com/Nat_Geo_Wild/index.m3u8"
+            "http://23.237.104.106:8080/USA_NAT_GEO_WILD/index.m3u8"
           ],
           "subtitleMoz": "All Channels",
            "numberMoz": "529",
           "thumbMoz": "https://od.lk/s/NDZfODUxNTg4NzJf/natgeoWild.jpeg",
           "titleMoz": "NAT GEO WILD"
         },
-         {
+        {
           "descriptionMoz": "National Geographic Wild est une chaîne télévisée spécialisée au Documentaires wild et autres.",
           "sourceMoz": [
             "https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8"
@@ -133,36 +92,6 @@
           "numberMoz": "500",
           "thumbMoz": "https://od.lk/s/M18yODQ0MzQxMzRf/natgeoWlid.png",
           "titleMoz": "NAT GEO WILD"
-        },
-        {
-          "descriptionMoz": "National Géographie est une chaîne télévisée spécialisée au Documentaires et autres.",
-          "sourceMoz": [
-            "https://fl1.moveonjoy.com/National_Geographic/index.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "502",
-          "thumbMoz": "https://od.lk/s/NDZfODUxNTg4NzFf/NatGeographic.png",
-          "titleMoz": "NAT GEO"
-        },
-        {
-          "descriptionMoz": "Military History TV est une chaîne télévisée spécialisée au Documentaires et autres.",
-          "sourceMoz": [
-            "https://fl1.moveonjoy.com/Military_History/index.m3u8"
-          ],
-          "subtitleMoz": "All Channels",
-          "numberMoz": "531",
-          "thumbMoz": "https://od.lk/s/NDZfODUxNTg4Njhf/militaryHistory.jpeg",
-          "titleMoz": "MILITARY HISTORY"
-        },
-         {
-          "descriptionMoz": "BBC EARTH est une chaîne télévisée spécialisée au Documentaires wild et autres.",
-          "sourceMoz": [
-            "https://apollo.production-public.tubi.io/live/ac-bbc-earth2.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "503",
-          "thumbMoz": "https://od.lk/s/NDZfODQ0MjkxMjBf/bbcEarth.jpeg",
-          "titleMoz": "BBC EARTH"
         },
         {
           "descriptionMoz": "Law & Crime est une chaîne télévisée spécialisée au Documentaires animaux et autres.",
@@ -174,25 +103,15 @@
           "thumbMoz": "https://od.lk/s/NDZfODUxNTg4Njdf/lawandcrime.jpeg",
           "titleMoz": "LAW & CRIME"
         },
-         {
-          "descriptionMoz": "Animal Planet HD est une chaîne télévisée spécialisée au Documentaires animaux et autres.",
+        {
+          "descriptionMoz": "BBC EARTH est une chaîne télévisée spécialisée au Documentaires wild et autres.",
           "sourceMoz": [
-            "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60925a44f0350600075a1fdc/1539795/playlist.m3u8?terminate=false&sid=5cc06a56-861b-4448-84df-34ad224ceaa7&deviceDNT=0&deviceModel=web&deviceVersion=unknown&includeExtendedEvents=false&appName=web&deviceId=35fc78c1-e986-11eb-a0af-c3b401f46211&appVersion=unknown&deviceType=web&deviceMake=Chrome"
+            "https://apollo.production-public.tubi.io/live/ac-bbc-earth2.m3u8"
           ],
           "subtitleMoz": "All Channel",
-          "numberMoz": "497",
-          "thumbMoz": "https://od.lk/s/M18yODMzMTM3NThf/aniplanethd.png",
-          "titleMoz": "ANIMAL PLANET"
-        },
-       {
-          "descriptionMoz": "Adventure Earth UK est une chaîne télévisée spécialisée au Documentaires animaux et autres.",
-          "sourceMoz": [
-            "https://f8bdb8a4d6774c0ba30ca5b7653c92d3.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-gb_AdventureEarth/playlist.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "498",
-          "thumbMoz": "https://od.lk/s/NDZfODQ0Mjg5MTdf/adventureEarth.jpeg",
-          "titleMoz": "ADVENTURE EARTH UK"
+          "numberMoz": "503",
+          "thumbMoz": "https://od.lk/s/NDZfODQ0MjkxMjBf/bbcEarth.jpeg",
+          "titleMoz": "BBC EARTH"
         },
         {
           "descriptionMoz": "Epace Series est une chaîne télévisée spécialisée au Documentaires animaux et autres.",
@@ -204,7 +123,7 @@
           "thumbMoz": "https://od.lk/s/NDZfODQ0MzMzNjhf/espaceSeriestv.jpg",
           "titleMoz": "ESPACE SERIES"
         },
-         {
+        {
           "descriptionMoz": "Chine Global Television Network TV est une chaîne télévisée du Chine spécialisée au Documentaires et autres.",
           "sourceMoz": [
             "https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8"
@@ -212,9 +131,9 @@
           "subtitleMoz": "All Channel",
           "numberMoz": "508",
           "thumbMoz": "https://od.lk/s/M18yODA3NTY5Mzhf/cgtntwo.jpg",
-          "titleMoz": "CGTN"
+          "titleMoz": "CGTN ESP"
         },
-         {
+        {
           "descriptionMoz": "Chine Global Television Network Documentary TV est une chaîne télévisée du Chine spécialisée au Documentaires et autres.",
           "sourceMoz": [
             "https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8"
@@ -222,9 +141,9 @@
           "subtitleMoz": "All Channel",
           "numberMoz": "533",
           "thumbMoz": "https://od.lk/s/M18yODA3NTY5Mzhf/cgtntwo.jpg",
-          "titleMoz": "CGTN DOCUMENTARY"
+          "titleMoz": "CGTN ENG"
         },
-         {
+        {
           "descriptionMoz": "Travel TV est une chaîne télévisée spécialisée au Documentaires animaux et autres.",
           "sourceMoz": [
             "https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8"
@@ -264,7 +183,7 @@
           "thumbMoz": "https://od.lk/s/NDZfODQ0MzMzNjRf/plutoAnimal.jpeg",
           "titleMoz": "PLUTO ANIMAUX"
         },
-         {
+        {
           "descriptionMoz": "Pluto Investigation TV est une chaîne télévisée spécialisée au Documentaires animaux et autres.",
           "sourceMoz": [
             "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f914f4b36d67d0007a91a04/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e057885-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a6c08e34-78b6-42cf-bca2-5017c1566c3c"
@@ -274,7 +193,7 @@
           "thumbMoz": "https://od.lk/s/NDZfODQ0MzMzNjVf/plutoinvestigation.png",
           "titleMoz": "PLUTO INVESTIGATION"
         },
-         {
+        {
           "descriptionMoz": "ASHARQ DISCOVERY TV est une chaîne télévisée spécialisée au Documentaires animaux et autres.",
           "sourceMoz": [
             "https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8"
@@ -294,7 +213,7 @@
           "thumbMoz": "https://od.lk/s/NDZfODUxNTg4NjVf/asharqDocumentary.png",
           "titleMoz": "ASHARQ DOCUMENTARY"
         },
-         {
+        {
           "descriptionMoz": "Nature Escape est une chaîne télévisée spécialisée au Documentaires wild et autres.",
           "sourceMoz": [
             "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4458"
@@ -304,6 +223,122 @@
           "thumbMoz": "https://od.lk/s/NDZfNzU5MDE3Njlf/natureEscape.jpg",
           "titleMoz": "NATURE ESCAPE"
         },
+        {
+          "descriptionMoz": "National Géographie est une chaîne télévisée spécialisée au Documentaires et autres.",
+          "sourceMoz": [
+            "http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8"
+          ],
+          "subtitleMoz": "All Channels",
+           "numberMoz": "495",
+          "thumbMoz": "https://od.lk/s/M18yODQ0MzQyMTlf/NatGeoHD.webp",
+          "titleMoz": "NAT GEO"
+        }
+      ]
+    }
+  ]
+}
+
+
+        
+
+
+          {
+          "descriptionMoz": "Animal Planet HD est une chaîne télévisée spécialisée au Documentaires animaux et autres.",
+          "sourceMoz": [
+            "http://217.20.112.199:80/animalplanet/tracks-v1a1/mono.m3u8"
+          ],
+          "subtitleMoz": "By Channel",
+          "thumbMoz": "https://od.lk/s/M18yODMzMTM0NDlf/aniplanet.jpg",
+          "titleMoz": "ANIMAL PLANET 2"
+        },
+        {
+          "descriptionMoz": "Animaux TV est une chaîne télévisée spécialisée au Documentaires animaux et autres.",
+          "sourceMoz": [
+            "https://viamotionhsi.netplus.ch/live/eds/animaux/browser-HLS8/animaux.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+           "numberMoz": "507",
+          "thumbMoz": "https://od.lk/s/NDZfODY4NTg1NjVf/animaux.jpg",
+          "titleMoz": "ANIMAUX"
+        },
+        {
+          "descriptionMoz": "Planet + TV est une chaîne télévisée spécialisée au Documentaires animaux et autres.",
+          "sourceMoz": [
+            "https://viamotionhsi.netplus.ch/live/eds/planeteplus/browser-HLS8/planeteplus.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+           "numberMoz": "507",
+          "thumbMoz": "https://od.lk/s/NDZfODY4NTg2MDlf/planete.jpg",
+          "titleMoz": "PLANET +"
+        },
+         {
+          "descriptionMoz": "100% Docs TV est une chaîne télévisée spécialisée au Documentaires animaux et autres.",
+          "sourceMoz": [
+            "https://amg02162-newenconnect-amg02162c2-rakuten-us-1981.playouts.now.amagi.tv/playlist/amg02162-newenconnect-100pour100docs-rakutenus/playlist.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+           "numberMoz": "507",
+          "thumbMoz": "https://od.lk/s/NDZfODQ0MjkxNDFf/100docs.jpeg",
+          "titleMoz": "100 % DOCS"
+        },
+        {
+          "descriptionMoz": "RMC Découverte est une chaîne télévisée spécialisée au Documentaires et autres.",
+          "sourceMoz": [
+            "https://viamotionhsi.netplus.ch/live/eds/rmcdecouverte/browser-HLS8/rmcdecouverte.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "528",
+          "thumbMoz": "https://od.lk/s/NDZfODY4NTg3NDRf/rmcdecouvertetv.jpg",
+          "titleMoz": "RMC DÉCOUVERTE"
+        },
+        {
+          "descriptionMoz": "RMC STORY est une chaîne télévisée spécialisée au Documentaires et autres.",
+          "sourceMoz": [
+            "https://viamotionhsi.netplus.ch/live/eds/numero23/browser-HLS8/numero23.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "529",
+          "thumbMoz": "https://od.lk/s/NDZfODY4NTg3NDdf/rmcstory.jpg",
+          "titleMoz": "RMC STORY"
+        },
+       
+       
+       
+       
+        {
+          "descriptionMoz": "National Géographie est une chaîne télévisée spécialisée au Documentaires et autres.",
+          "sourceMoz": [
+            "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NAT_GEO/index.m3u8"
+          ],
+          "subtitleMoz": "All Channels",
+           "numberMoz": "528",
+          "thumbMoz": "https://od.lk/s/NDZfODUxNTg4NzBf/natgeoChannel.png",
+          "titleMoz": "NAT GEO LATIN"
+        },
+         
+        
+        {
+          "descriptionMoz": "National Géographie est une chaîne télévisée spécialisée au Documentaires et autres.",
+          "sourceMoz": [
+            "https://fl1.moveonjoy.com/National_Geographic/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "502",
+          "thumbMoz": "https://od.lk/s/NDZfODUxNTg4NzFf/NatGeographic.png",
+          "titleMoz": "NAT GEO"
+        },
+        {
+          "descriptionMoz": "Military History TV est une chaîne télévisée spécialisée au Documentaires et autres.",
+          "sourceMoz": [
+            "https://fl1.moveonjoy.com/Military_History/index.m3u8"
+          ],
+          "subtitleMoz": "All Channels",
+          "numberMoz": "531",
+          "thumbMoz": "https://od.lk/s/NDZfODUxNTg4Njhf/militaryHistory.jpeg",
+          "titleMoz": "MILITARY HISTORY"
+        },
+    
+         
          {
           "descriptionMoz": "National Géographie est une chaîne télévisée spécialisée au Documentaires et autres.",
           "sourceMoz": [
@@ -324,11 +359,7 @@
           "thumbMoz": "https://od.lk/s/NDZfODY4NTg1NjVf/animaux.jpg",
           "titleMoz": "ANIMAUX"
         }
-      ]
-    }
-  ]
-}
-
+ 
 
        https://od.lk/s/NDZfODUxNTg4NzJf/natgeoWild.jpeg
       https://od.lk/s/M18yODQ0MzQyMTlf/NatGeoHD.webp 
@@ -367,15 +398,7 @@
           "titleMoz": "CGTN 2"
         },
       
-        {
-          "descriptionMoz": "Animal Planet HD est une chaîne télévisée spécialisée au Documentaires animaux et autres.",
-          "sourceMoz": [
-            "https://dplus.gammacdn.workers.dev/videos/99.m3u8"
-          ],
-          "subtitleMoz": "By Channel",
-          "thumbMoz": "https://od.lk/s/M18yODMzMTM0NDlf/aniplanet.jpg",
-          "titleMoz": "ANIMAL PLANET 2"
-        },
+       
         {
           "descriptionMoz": "Animal Planet HD est une chaîne télévisée spécialisée au Documentaires animaux et autres.",
           "sourceMoz": [
