@@ -14,14 +14,15 @@
           "thumbMoz": "https://od.lk/s/M18yODMzMTM3NThf/aniplanethd.png",
           "titleMoz": "ANIMAL PLANET"
         },
-         {
-          "descriptionMoz": "Animal Planet HD est une chaîne télévisée spécialisée au Documentaires animaux et autres.",
+        {
+          "descriptionMoz": "Into Crime est une chaîne télévisée spécialisée au Documentaires et autres.",
           "sourceMoz": [
-            "http://217.20.112.199:80/animalplanet/tracks-v1a1/mono.m3u8"
+            "https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8"
           ],
-          "subtitleMoz": "By Channel",
-          "thumbMoz": "https://od.lk/s/M18yODMzMTM0NDlf/aniplanet.jpg",
-          "titleMoz": "ANIMAL PLANET 2"
+          "subtitleMoz": "All Channel",
+          "numberMoz": "529",
+          "thumbMoz": "https://od.lk/s/NDZfODY4NTkwNzhf/crime.jpg",
+          "titleMoz": "INTO CRIME"
         },
         {
           "descriptionMoz": "RT Documentary TV est une chaîne télévisée spécialisée au Documentaires animaux et autres.",
@@ -32,16 +33,6 @@
           "numberMoz": "530",
           "thumbMoz": "https://od.lk/s/NDZfNzU5MDE3MDhf/rtdocumentary.jpg",
           "titleMoz": "RT DOCUMENTARY"
-        },
-        {
-          "descriptionMoz": "Into Crime est une chaîne télévisée spécialisée au Documentaires et autres.",
-          "sourceMoz": [
-            "https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "529",
-          "thumbMoz": "https://od.lk/s/NDZfODY4NTkwNzhf/crime.jpg",
-          "titleMoz": "INTO CRIME"
         },
         {
           "descriptionMoz": "Science & Vie est une chaîne télévisée spécialisée au Documentaires et autres.",
@@ -232,6 +223,15 @@
            "numberMoz": "495",
           "thumbMoz": "https://od.lk/s/M18yODQ0MzQyMTlf/NatGeoHD.webp",
           "titleMoz": "NAT GEO"
+        },
+        {
+          "descriptionMoz": "Animal Planet HD est une chaîne télévisée spécialisée au Documentaires animaux et autres.",
+          "sourceMoz": [
+            "http://217.20.112.199:80/animalplanet/tracks-v1a1/mono.m3u8"
+          ],
+          "subtitleMoz": "By Channel",
+          "thumbMoz": "https://od.lk/s/M18yODMzMTM0NDlf/aniplanet.jpg",
+          "titleMoz": "ANIMAL PLANET 2"
         }
       ]
     }
