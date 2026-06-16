@@ -97,6 +97,16 @@
         {
           "descriptionMoz": "National Géographie est une chaîne télévisée spécialisée au Documentaires et autres.",
           "sourceMoz": [
+            "http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "502",
+          "thumbMoz": "https://od.lk/s/NDZfODUxNTg4NzFf/NatGeographic.png",
+          "titleMoz": "NAT GEO"
+        },
+        {
+          "descriptionMoz": "National Géographie est une chaîne télévisée spécialisée au Documentaires et autres.",
+          "sourceMoz": [
             "http://23.237.104.106:8080/USA_NAT_GEO_WILD/index.m3u8"
           ],
           "subtitleMoz": "All Channels",
@@ -265,7 +275,7 @@
           "titleMoz": "ANIMAUX TV"
         },
         {
-          "descriptionMoz": "Investigation discovery tv tv est une chaîne télévisée spécialisée au Documentaires et autres.",
+          "descriptionMoz": "Investigation discovery tv est une chaîne télévisée spécialisée au Documentaires et autres.",
           "sourceMoz": [
             "https://kool.to/play/995275984/index.m3u8"
           ],
@@ -275,14 +285,14 @@
           "titleMoz": "ID TV"
         },
         {
-          "descriptionMoz": "Investigation discovery tv tv est une chaîne télévisée spécialisée au Documentaires et autres.",
+          "descriptionMoz": "Real Wild tv est une chaîne télévisée spécialisée au Documentaires et autres.",
           "sourceMoz": [
-            "https://kool.to/play/995275984/index.m3u8"
+            "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8"
           ],
           "subtitleMoz": "All Channels",
            "numberMoz": "496",
-          "thumbMoz": "https://od.lk/s/NDZfOTMwMzMyMTdf/INVDISC.jfif",
-          "titleMoz": "ID TV"
+          "thumbMoz": "https://od.lk/s/NDZfOTMwMzMyNTBf/realwilds.jfif",
+          "titleMoz": "REAL WILD TV"
         },
         {
           "descriptionMoz": "Destinaton nature tv est une chaîne télévisée spécialisée au Documentaires et autres.",
