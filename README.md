@@ -19,7 +19,8 @@
           "sourceMoz": [
             "http://217.20.112.199:80/animalplanet/tracks-v1a1/mono.m3u8"
           ],
-          "subtitleMoz": "By Channel",
+          "subtitleMoz": "All Channels",
+           "numberMoz": "496",
           "thumbMoz": "https://od.lk/s/M18yODMzMTM0NDlf/aniplanet.jpg",
           "titleMoz": "ANIMAL PLANET 2"
       },
